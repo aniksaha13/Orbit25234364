@@ -78,7 +78,7 @@ http://172.19.17.3:8090/hls/ASportsHD.m3u8
 http://172.19.17.3:8090/hls/tsportshd3rd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mwAou7A.jpeg" group-title="Sports",Ptv sports 📺
 http://172.19.17.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Btv nationalHD 📺
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T75KtZ5.png" group-title="Sports",Btv nationalHD 📺
 http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Somoy Tv 📺
 http://172.19.17.3:8090/hls/somoytv.m3u8
