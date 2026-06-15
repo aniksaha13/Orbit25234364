@@ -1,4 +1,4 @@
-AKASH GO 
+///////AKASH GO ////
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision 📺 (AKASH GO)
@@ -28,7 +28,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
-hindi
+//////hindi/////
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Hindi",And Picture 📺 
 http://172.19.17.3:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Hindi",Starplus HD 📺 
@@ -39,7 +39,8 @@ http://172.19.17.3:8090/hls/sonymaxhd.m3u8
 http://172.19.17.3:8090/hls/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Hindi",Sony HD 📺 
 http://172.19.17.3:8090/hls/SonyHD.m3u8
-India Bangla
+
+///India Bangla/////
 #EXTINF:-1 tvg-id="131" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" group-title="India Bangla",Starjalsha HD 📺 
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="India Bangla",Zeebangla HD 📺
@@ -51,13 +52,13 @@ http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="India Bangla",Sony aatt 📺 
 http://172.19.17.3:8090/hls/SonyAtth.m3u8
 
-news
+////news////
 #EXTINF:-1 tvg-id="102" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Alzaazeera news 📺 
 http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",BBC world 📺 
 http://172.19.17.3:8090/hls/bbc_world.m3u8
 
-sports
+////sports////
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Sports",Asports  📺 
 http://172.19.17.3:8090/hls/ASportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",T Sports HD  📺
@@ -83,19 +84,19 @@ http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Beinsports1ENG 📺
 http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
 
-music
+/////music////
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Music",Sangeet Bangla 📺
 http://172.19.17.3:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Music",9xm 📺
 http://172.19.17.3:8090/hls/9xm.m3u8
 
-Kids
+/////Kids////
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Kids",Discovery kids 📺
 http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Kids",Cartoon network 📺
 http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
 
-English
+////English////
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="English",StarMovies HD 📺
 http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="English",Discovery HD📺
