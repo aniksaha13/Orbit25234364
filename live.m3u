@@ -88,7 +88,7 @@ http://172.19.17.3:8090/hls/StarSportsSelect2HD.m3u8
 http://172.19.17.3:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cIcyIFL.jpeg" group-title="Sports",Starsports2HD 📺
 http://172.19.17.3:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Sonyten5HD 📺
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OQtJBk1.jpeg" group-title="Sports",Sonyten5HD 📺
 http://172.19.17.3:8090/hls/SonyTen5HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Sonyten2HD 📺
 http://172.19.17.3:8090/hls/SonyTen2hd.m3u8
